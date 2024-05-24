@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644821982 source:e:\diak\ok\backtracking\karakterek\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
